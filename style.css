@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+
+table,
+td,
+th,
+tr {
+    border: 2px solid black;
+}
+
+table {
+    width: 450px;
+    height: 250px;
+}
+
+.headding {
+    background-color: rgb(229, 224, 224);
+}
